@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything relate to coding 🤣
 - 👯 I’m looking to collaborate with other dumb developers
 - 🥅 2022 Goals: Learn more about new next 100 JS frameworks that will appear next 2 years
-- ⚡ Fun fact: I love to video game "Dota 2"
+- ⚡ Fun fact: I love to play video game "Dota 2"
 
 ### Connect with me:
 
